@@ -1,4 +1,4 @@
-# Jaime Torres Benavente pages
+# Óscar R. Zafra Megías pages
 
 A repo for my GitHub personal page.
 
