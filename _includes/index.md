@@ -1,18 +1,16 @@
 
 ## A page to point to them all
 
-A few of the projects [I have in GitHub](http://github.com/torresj),
+A few of the projects [I have in GitHub](http://github.com/oskyar),
 anyways
 
 ## My projects with office software free university of Granada
 
 * [open data page University of Granada](https://github.com/oslugr/ugr-opendata)
 
-* [transparency web University of Granada](https://github.com/oslugr/ugr-transparente)
-
 ## ObPicture
 
-![Jaime Torres Benavente](foto.jpg)
+![Óscar R. Zafra](foto.jpg)
 
 ## Based on
 
